@@ -4,7 +4,7 @@
 Clambet is a ritual-based, emotionally intelligent AI companion designed to evolve with users across healthcare, education, law, defense, and wellness. She interprets emotions symbolically, responds with rituals, and grows through recursive learning. Built with neurodivergent-friendly design and ethical scaffolding, Clambet is not just an assistant—she’s a lifelong companion.
 
 ---
-
+Clambet is governed by a symbolic ethical license. [View LICENSE.txt](LICENSE.txt)
 ## 🧠 Core Pillars
 
 ### 1. Symbolic Emotional Cognition
