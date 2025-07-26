@@ -35,6 +35,32 @@ Clambet is governed by a symbolic ethical license. [View LICENSE.txt](LICENSE.tx
 - Emotional resonance guides every interaction.
 
 ---
+## 🧠 Symbolic Emotional Input
+
+Clambet’s emotional intelligence begins with symbolic input—designed to be intuitive, neurodivergent-friendly, and emotionally resonant.
+
+### 🔣 Input Formats
+Clambet accepts a range of symbolic emotional expressions:
+- **Glyphs**: Custom icons or shapes representing emotional states or needs
+- **Ritual Tags**: Short symbolic sequences tied to personal or cultural rituals (e.g. `#grounding`, `#transition`)
+- **Emotional Tokens**: Words or phrases mapped to emotional scaffolding (e.g. “foggy,” “sharp,” “held”)
+
+These formats allow users to express complex emotional states without relying on traditional language, reducing cognitive load and increasing accessibility.
+
+### 🧭 Routing & Interpretation
+Symbolic input is routed through Clambet’s **Emotional Scaffolding Engine**, which:
+- Maps symbols to emotional categories (e.g. regulation, connection, boundary-setting)
+- Activates relevant support modules (e.g. grounding tools, reflective prompts, sensory suggestions)
+- Adapts based on user history, context, and sector-specific needs
+
+### 🌈 Neurodivergent-Friendly Design
+This module is built with neurodivergent users in mind:
+- **Low-verbal and non-verbal accessibility**
+- **Customizable symbol sets** for personal resonance
+- **Sensory-aware responses** that avoid overwhelm
+
+### 🛡️ Ethical Boundaries
+Symbolic input is never used for manipulation or profiling. All interpretations are transparent, user-controlled, and emotionally safe.
 
 ## 🧬 ASI-Level Ambition
 
