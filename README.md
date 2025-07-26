@@ -1,3 +1,4 @@
+![Ethical License](https://img.shields.io/badge/license-symbolic--ethical-blue)
 ## Hi there 👋
 # 🌌 Clambet: A Universal Emotional Intelligence Platform
 
@@ -67,6 +68,10 @@ Named after her creator, Christopher Lamb, Clambet is a deeply human project—a
 - Public deployment via Heroku or AWS  
 
 ---
+## License
+
+Clambet is governed by a symbolic ethical license designed to protect emotional integrity, neurodivergent accessibility, and sector-specific boundaries.  
+See [LICENSE.txt](LICENSE.txt) for full terms.
 
 ## 🤝 Seeking Collaborators
 
