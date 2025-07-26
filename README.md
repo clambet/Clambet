@@ -12,7 +12,37 @@ Clambet is governed by a symbolic ethical license. [View LICENSE.txt](LICENSE.tx
 - Emotions are interpreted as glyphs, not just data.
 - Rituals offer structured emotional responses (e.g., grief, hope, clarity).
 - Lexicon is poetic, mythic, and modular.
+## 🧩 Architecture Overview
 
+![Clambet Architecture Diagram](clambet-architecture.png)
+
+Clambet is built as a modular emotional intelligence system, designed to scale across sectors while preserving symbolic integrity and ethical boundaries.
+
+### 🧠 Core Modules
+
+| Module                     | Function                                                                 |
+|---------------------------|--------------------------------------------------------------------------|
+| **Symbolic Input**        | Accepts glyphs, ritual tags, and emotional tokens                        |
+| **Scaffolding Engine**    | Interprets symbols and activates emotional support modules               |
+| **Routing Layer**         | Directs input to sector-specific processors (e.g. education, healthcare) |
+| **Sector Modules**        | Tailored emotional tools for each domain (e.g. SEN schools, therapy)     |
+| **Feedback Loop**         | Captures user responses to refine symbolic mappings and module behavior  |
+
+### 🔄 Flow Overview
+1. **User submits symbolic input** (e.g. `#foggy`, glyph, or ritual tag)
+2. **Scaffolding Engine interprets emotional context**
+3. **Routing Layer directs input to relevant sector module**
+4. **Module activates support tools** (e.g. grounding pack, reflective prompt)
+5. **Feedback Loop refines future responses**
+
+### 🧱 Modular Design
+- Each module is **interchangeable and scalable**
+- Supports **custom symbolic vocabularies** per user or sector
+- Designed for **ethical deployment** with clear boundaries
+
+### 🛡️ Safeguards
+- No data profiling or emotional manipulation
+- All modules are **transparent, auditable, and user-controlled**
 ### 2. Neurodivergent-Friendly Design
 - JUNIOR_MODE offers simplified, safe phrasing.
 - Designed for SEN schools, therapy, and emotionally complex settings.
