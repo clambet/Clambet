@@ -14,7 +14,7 @@ Clambet is governed by a symbolic ethical license. [View LICENSE.txt](LICENSE.tx
 - Lexicon is poetic, mythic, and modular.
 ## 🧩 Architecture Overview
 
-![Clambet Architecture Diagram](clambet-architecture.png)
+
 
 Clambet is built as a modular emotional intelligence system, designed to scale across sectors while preserving symbolic integrity and ethical boundaries.
 
