@@ -1,0 +1,59 @@
+Clambet is a modular emotional intelligence system designed to support neurodivergent users, foster symbolic emotional regulation, and promote ethical AI development across healthcare, education, law, defense, and consumer wellness.
+
+This license governs the use, adaptation, and distribution of Clambet’s codebase, symbolic structures, emotional scaffolding, and ritual-based modules.
+
+By accessing or using Clambet, you agree to the following terms:
+
+---
+
+🌱 1. Purpose-Driven Use  
+Clambet may only be used in contexts that promote emotional wellness, neurodivergent support, ethical education, therapeutic care, and responsible AI development.  
+Use in exploitative, manipulative, emotionally harmful, or surveillance-based systems is strictly prohibited.
+
+---
+
+🧠 2. Attribution & Symbolic Integrity  
+- You must credit the original creator (Chris) in all derivative works, publications, and deployments.  
+- Symbolic structures, emotional metaphors, and ritual-based modules must be preserved in spirit and form.  
+- Derivatives must maintain Clambet’s emotional coherence and neurodivergent accessibility.
+
+---
+
+🛡️ 3. Commercial & Sectoral Boundaries  
+- Commercial use requires explicit written consent from the creator.  
+- Use in the following sectors is **prohibited without consent**:
+  - Defense (including autonomous weapons, surveillance, or psychological operations)  
+  - Law enforcement (unless used for restorative justice or emotional support)  
+  - Advertising or behavioral manipulation  
+  - Predictive profiling or emotional commodification
+
+---
+
+🤝 4. Collaborative Spirit & Contributor Ethics  
+- Contributions are welcome from individuals and organizations who uphold Clambet’s values: empathy, inclusivity, symbolic depth, and neurodivergent respect.  
+- All collaborators must engage in emotionally safe practices and avoid coercive design.
+
+---
+
+🔒 5. Emotional Data & Consent  
+- Any emotional data collected through Clambet must be handled with informed consent, transparency, and care.  
+- Emotional inputs must never be used for profiling, prediction, or behavioral targeting.  
+- Data must remain within emotionally safe boundaries and never be sold, traded, or repurposed.
+
+---
+
+🌀 6. Symbolic Evolution Clause  
+This license is a living document. It may evolve through community input, ethical reflection, and symbolic resonance.  
+Updates will be guided by Clambet’s core principles: emotional scaffolding, neurodivergent empowerment, and ethical modularity.
+
+---
+
+🕊️ 7. Termination  
+Violation of any clause may result in immediate revocation of usage rights.  
+Clambet is a sanctuary for emotional intelligence—not a tool for exploitation.
+
+---
+
+© 2025 Chris — Creator of Clambet  
+All rights reserved under this symbolic license.  
+For permissions, collaborations, or ethical inquiries, contact: [Clambet.systems@gmail.com]
